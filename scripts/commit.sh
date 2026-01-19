@@ -22,5 +22,4 @@ if [ ! $? -eq 0 ]; then
 fi
 
 git push origin master
-git push github master
 echo "Updated contents"
